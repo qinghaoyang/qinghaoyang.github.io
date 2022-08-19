@@ -29,11 +29,11 @@ showSkills = true
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/edwardwebb/"
+link = "https://www.linkedin.com/in/qinghao-yang/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/eddiewebb/"
+link = "https://github.com/qinghaoyang/"
 name = "GitHub"
 
 [outputs]

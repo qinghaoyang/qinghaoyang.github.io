@@ -1,6 +1,6 @@
 title = "Qinghao Yang"
-baseURL = "https://qinghaoyang.github.io/qinghao-resume/"
-theme = "hugo-resume"
+baseURL = "https://qinghaoyang.github.io/"
+theme = "resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true

@@ -1,5 +1,5 @@
 title = "Qinghao Yang"
-baseURL = "https://qinghaoyang.github.io/"
+baseURL = "https://qinghaoyang.github.io/qinghao-resume"
 theme = "resume"
 languageCode = "en-us"
 PygmentsCodeFences = true

@@ -14,13 +14,13 @@ favicon = "/favicon.ico"
 firstName = "Qinghao"
 lastName = "Yang"
 phone = "1-555-555-1234"
-profileImage = "img/TechChat.png"
+profileImage = "img/me.png"
 showEducation = true
 showExperience = true
 showOpenSource = false
 showProjects = true
 showPublications = false
-showQr = true
+showQr = false
 showSkills = true
 
 [params.google]

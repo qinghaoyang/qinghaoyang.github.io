@@ -9,7 +9,7 @@ enableGitInfo = false
 
 [params]
 address = "Chicago, IL"
-email = "qinghaoyang2022@u.northwestern.edu"
+email = "qinghaoyang2022[at]u.northwestern.edu"
 favicon = "/favicon.ico"
 firstName = "Qinghao"
 lastName = "Yang"
